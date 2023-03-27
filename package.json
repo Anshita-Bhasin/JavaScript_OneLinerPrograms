@@ -1,0 +1,19 @@
+{
+  "name": "javascript_oneLiner_programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshita-Bhasin/JavaScript_OneLinerPrograms.git"
+  },
+  "author": "Anshita Bhasin <anshita@propertyfinder.ae>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshita-Bhasin/JavaScript_OneLinerPrograms.git/issues"
+  },
+  "homepage": "https://github.com/Anshita-Bhasin/JavaScript_OneLinerPrograms.git#readme"
+}
